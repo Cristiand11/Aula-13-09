@@ -1,0 +1,15 @@
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\bin\Debug\net6.0\Aula 13.09.exe
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\bin\Debug\net6.0\Aula 13.09.deps.json
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\bin\Debug\net6.0\Aula 13.09.runtimeconfig.json
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\bin\Debug\net6.0\Aula 13.09.dll
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\bin\Debug\net6.0\Aula 13.09.pdb
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\Aula 13.09.csproj.AssemblyReference.cache
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\Aula 13.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\Aula 13.09.AssemblyInfoInputs.cache
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\Aula 13.09.AssemblyInfo.cs
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\Aula 13.09.csproj.CoreCompileInputs.cache
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\Aula 13.09.dll
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\refint\Aula 13.09.dll
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\Aula 13.09.pdb
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\Aula 13.09.genruntimeconfig.cache
+C:\Users\cristian.domingues\Desktop\Semestre\Glauco\Aula 13.09\obj\Debug\net6.0\ref\Aula 13.09.dll
